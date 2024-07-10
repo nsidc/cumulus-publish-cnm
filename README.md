@@ -67,7 +67,7 @@ NOTE: This AWS Lambda Function is intended to be used as a cumulus task and this
 
 ## Help
 
-`This <https://chariotsolutions.com/blog/post/building-lambdas-with-poetry/>`_ page contains some good info on the overall "building a zip with poetry that's compatible with AWS Lambda".
+[This article](https://chariotsolutions.com/blog/post/building-lambdas-with-poetry) contains some good info on the overall "building a zip with poetry that's compatible with AWS Lambda".
 
 ## Version History
 
